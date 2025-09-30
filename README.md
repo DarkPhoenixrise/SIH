@@ -1,2 +1,0 @@
-# SIH
-SIH Project
